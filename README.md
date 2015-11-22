@@ -10,7 +10,9 @@ timegrid is an online reservation application. As an intermediate party, it allo
 
 The application intends to be simple to use and flexible enough to adopt as many industry sectors as possible. This means that there exist different reservation strategies and that timegrid tries to handle as much of these situations as possible.
 
-### [Demo](http://demo.timegrid.io/)
+### Demo
+
+You can try the *beta* [Demo](http://demo.timegrid.io/)
 
 ### How does it work
 
